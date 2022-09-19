@@ -15,10 +15,10 @@ const TravelSection = () => {
 				<div className="w-1/2 h-auto py-10 px-10 bg-white rounded-3xl  drop-shadow-xl grid grid-cols-1 md:grid-cols-2">
 					<div></div>
 					<div className="space-y-4">
-						<h2 className="text-5xl font-merriweather font-bold">
+						<h2 className="text-2xl md:text-5xl font-merriweather font-bold">
 							Travel with us
 						</h2>
-						<p className="text-l font-semibold">
+						<p className="text-m md:text-l font-semibold">
 							Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id ipsum
 							mollitia cupiditate culpa et, fugiat possimus accusamus iste in
 							atque aliquam nostrum aperiam deleniti doloribus eius quam quod
